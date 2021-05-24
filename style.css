@@ -1,0 +1,27 @@
+*{
+    text-align: center;
+}
+.T{
+    margin-top: 40px;
+    color: rgb(223, 41, 41);
+    font-family: "Sofia", sans-serif,'Arial Narrow Bold'; 
+    font-size: 50px;
+    text-shadow: 3px 3px 3px #ababab;
+}
+.body{
+    background-color: rgba(108, 235, 83, 0.418)
+}
+.title{
+    margin-top: 40px;
+    color: rgb(223, 41, 41);
+    font-family: "Sofia", sans-serif,'Arial Narrow Bold'; 
+    font-size: 30px;
+    text-shadow: 3px 3px 3px #ababab;
+}
+#number-input{
+    width: 120px;
+}
+
+.play{
+    font-size: 20px;
+}
